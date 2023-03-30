@@ -7,3 +7,5 @@ This is the R code that was generated to create the descriptive table outputs an
 Funding: R01AA017664 & NIMH P50 MH094258 #8198
 
 Published manuscript: https://doi.org/10.1016/j.dcn.2020.100883
+
+This code can also be found at: https://doi.org/10.6084/m9.figshare.13191392.v2 
